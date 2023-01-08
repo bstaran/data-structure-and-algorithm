@@ -32,3 +32,4 @@ bin/
 /.idea/misc.xml
 /dataStructure_and_algorithm.iml
 /.idea/workspace.xml
+/.idea/jpa-buddy.xml
